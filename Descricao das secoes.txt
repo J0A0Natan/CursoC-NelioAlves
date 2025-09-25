@@ -1,0 +1,4 @@
+Seção 3 - Recapitulação de Lógica de Programação usando C#
+Seção 4 - Classes, atributos, métodos, membros estáticos
+Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento
+Seção 6 - Comportamento de memória, arrays, listas
