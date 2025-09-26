@@ -3,3 +3,4 @@ Seção 4 - Classes, atributos, métodos, membros estáticos
 Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento
 Seção 6 - Comportamento de memória, arrays, listas
 Seção 7 - Tópicos especiais em C# - Parte 1
+Seção 8 - Enumeração e composição
