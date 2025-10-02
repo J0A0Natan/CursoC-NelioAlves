@@ -1,7 +1,8 @@
-Seção 3 - Recapitulação de Lógica de Programação usando C#
-Seção 4 - Classes, atributos, métodos, membros estáticos
-Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento
-Seção 6 - Comportamento de memória, arrays, listas
-Seção 7 - Tópicos especiais em C# - Parte 1
-Seção 8 - Enumeração e composição
-Seção 9 - Herança e polimorfismo
+Seção 03 - Recapitulação de Lógica de Programação usando C#
+Seção 04 - Classes, atributos, métodos, membros estáticos
+Seção 05 - Construtores, palavra this, sobrecarga, encapsulamento
+Seção 06 - Comportamento de memória, arrays, listas
+Seção 07 - Tópicos especiais em C# - Parte 1
+Seção 08 - Enumeração e composição
+Seção 09 - Herança e polimorfismo
+Seção 10 - Tratamento de exeções
