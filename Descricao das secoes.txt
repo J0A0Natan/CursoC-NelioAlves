@@ -6,3 +6,4 @@ Seção 07 - Tópicos especiais em C# - Parte 1
 Seção 08 - Enumeração e composição
 Seção 09 - Herança e polimorfismo
 Seção 10 - Tratamento de exeções
+Seção 11 - Trabalhando com arquivos
