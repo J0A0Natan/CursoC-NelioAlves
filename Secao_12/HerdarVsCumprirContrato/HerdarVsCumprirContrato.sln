@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerdarVsCumprirContrato", "HerdarVsCumprirContrato\HerdarVsCumprirContrato.csproj", "{AEAC6F9E-F9AB-4F39-A70C-3CA791421D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAC6F9E-F9AB-4F39-A70C-3CA791421D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAC6F9E-F9AB-4F39-A70C-3CA791421D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAC6F9E-F9AB-4F39-A70C-3CA791421D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAC6F9E-F9AB-4F39-A70C-3CA791421D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC22A98-3464-4247-AD2D-0EA84F5F7C18}
+	EndGlobalSection
+EndGlobal
