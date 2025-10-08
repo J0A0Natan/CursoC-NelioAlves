@@ -1,6 +1,6 @@
 ﻿using InterfaceIComparable.Entities;
 
-string path = @"C:\Users\joao\Documents\_Curso C# Nelio Alves\Secao_12\InterfaceIComparable\in.txt";
+string path = @"C:\Users\joao\Documents\_Curso C# Nelio Alves\Secao_12\5_InterfaceIComparable\in.txt";
 try
 {
     using (StreamReader sr = File.OpenText(path))
