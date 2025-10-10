@@ -10,3 +10,4 @@ Seção 11 - Trabalhando com arquivos
 Seção 12 - Interfaces
 Seção 13 - Generics, Set, Dictionary
 Seção 14 - Tópicos especiais em C# - Parte 2
+Seção 15 - Expressões lambda, delegates, LINQ
