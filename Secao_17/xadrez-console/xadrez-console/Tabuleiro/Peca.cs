@@ -16,5 +16,10 @@ namespace Tabuleiro
             Posicao = null;
             QteMovimentos = 0;
         }
+
+        public void addMovimento()
+        {
+            QteMovimentos++;
+        }
     }
 }
