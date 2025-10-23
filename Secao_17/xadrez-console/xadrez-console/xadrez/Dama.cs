@@ -69,7 +69,7 @@ namespace xadrez
             while (Tabuleiro.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
-                if (Tabuleiro.peca(pos) == null && Tabuleiro.peca(pos).Cor != Cor)
+                if (Tabuleiro.peca(pos) != null && Tabuleiro.peca(pos).Cor != Cor)
                 {
                     break;
                 }
@@ -81,7 +81,7 @@ namespace xadrez
             while (Tabuleiro.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
-                if (Tabuleiro.peca(pos) == null && Tabuleiro.peca(pos).Cor != Cor)
+                if (Tabuleiro.peca(pos) != null && Tabuleiro.peca(pos).Cor != Cor)
                 {
                     break;
                 }
@@ -93,7 +93,7 @@ namespace xadrez
             while (Tabuleiro.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
-                if (Tabuleiro.peca(pos) == null && Tabuleiro.peca(pos).Cor != Cor)
+                if (Tabuleiro.peca(pos) != null && Tabuleiro.peca(pos).Cor != Cor)
                 {
                     break;
                 }
@@ -105,7 +105,7 @@ namespace xadrez
             while (Tabuleiro.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
-                if (Tabuleiro.peca(pos) == null && Tabuleiro.peca(pos).Cor != Cor)
+                if (Tabuleiro.peca(pos) != null && Tabuleiro.peca(pos).Cor != Cor)
                 {
                     break;
                 }
