@@ -1,4 +1,4 @@
-﻿using SalesWebMvc.Migrations;
+﻿
 
 namespace SalesWebMvc.Models
 {
