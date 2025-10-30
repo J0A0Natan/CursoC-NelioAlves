@@ -12,8 +12,8 @@ using SalesWebMvc.Data;
 namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
-    [Migration("20251029165200_initial")]
-    partial class initial
+    [Migration("20251030184837_DepartmentsFoeringKey")]
+    partial class DepartmentsFoeringKey
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
