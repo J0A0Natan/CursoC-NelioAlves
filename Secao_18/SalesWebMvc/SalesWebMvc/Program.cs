@@ -13,9 +13,10 @@ builder.Services.AddDbContext<SalesWebMvcContext>(options =>
     )
 );
 
-// 2️ Adiciona os serviço de seeding e SellerService ao container
+// 2️ Adiciona os serviços
 builder.Services.AddScoped<SeedingService>();
 builder.Services.AddScoped<SellerService>();
+builder.Services.AddScoped<DepartmentService>();
 
 // 3️ Adiciona os serviços MVC
 builder.Services.AddControllersWithViews();
